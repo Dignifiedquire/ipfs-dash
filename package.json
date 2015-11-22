@@ -1,0 +1,29 @@
+{
+  "name": "ipfs-dash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^2.5.1",
+    "ipfs-api": "github:dignifiedquire/js-ipfs-api#log",
+    "ipfs-event-stream": "^1.0.0-alpha.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Dignifiedquire/ipfs-dash/issues"
+  },
+  "homepage": "https://github.com/Dignifiedquire/ipfs-dash",
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dignifiedquire/ipfs-dash"
+  }
+}
